@@ -1,17 +1,20 @@
-# KIKI Personal Portfolio — Bilingual Edition
+# KIKI Personal Portfolio
 
-Upload the **contents** of this folder to the root of `bigjanekiki/KIKI-cv` (not the ZIP itself).
+A bilingual (English/Chinese) personal portfolio website with a pastel illustrated homepage, responsive layout, light/dark theme, project links and downloadable resumes.
 
-## Files
-- `index.html` — portfolio content, with English default and EN / 中文 language switch
-- `style.css` — responsive pastel layout and light/dark themes
-- `script.js` — language switch, theme toggle and Recent Updates rendering
-- `updates.js` — seven Recent Updates entries
-- `assets/images/kiki-hero-illustration.png` — illustrated homepage hero artwork
-- `assets/resume/` — Chinese and English PDF resumes
-- `editable-resumes/` — editable Word resumes
+## Deploy with GitHub Pages
+1. Extract this ZIP.
+2. Upload **all files and folders inside** this folder to the root of your `bigjanekiki/KIKI-cv` repository (not the outer folder itself).
+3. Commit the changes to the `main` branch.
+4. In GitHub, open **Settings → Pages**. Choose **Deploy from a branch**, select `main` and `/(root)`, then Save.
+5. After deployment, visit `https://bigjanekiki.github.io/KIKI-cv/`.
 
-## GitHub Pages
-Repository → Settings → Pages → Build and deployment → Deploy from a branch → `main` → `/(root)` → Save.
+## Update Recent Updates
+Edit `updates.js` to add or change update entries. Keep each entry's `date`, `category`, `title`, and `url`.
 
-The website defaults to English. Visitors can switch to Chinese using the EN / 中文 control. Language preference and light/dark theme preference are saved in the visitor's browser.
+## Update project files
+- PDF resumes: `assets/resume/`
+- Editable Word resumes: `editable-resumes/`
+- Homepage illustration: `assets/images/kiki-hero-illustration.jpg`
+
+The Healthy Savings project is linked at https://bigjanekiki.github.io/Lose-Weight-while-Saving/.
