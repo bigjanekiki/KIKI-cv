@@ -1,18 +1,17 @@
-# KIKI Personal Portfolio
+# KIKI Personal Portfolio — Bilingual Edition
 
-Upload the **contents** of this folder to the root of the existing GitHub repository `bigjanekiki/KIKI-cv` (do not upload only this ZIP).
+Upload the **contents** of this folder to the root of `bigjanekiki/KIKI-cv` (not the ZIP itself).
 
-## Main files
-- `index.html` — website content
-- `style.css` — layout and styling
-- `script.js` — theme toggle and interactions
-- `updates.js` — Recent Updates list
-- `assets/resume/` — downloadable Chinese and English PDF resumes
+## Files
+- `index.html` — portfolio content, with English default and EN / 中文 language switch
+- `style.css` — responsive pastel layout and light/dark themes
+- `script.js` — language switch, theme toggle and Recent Updates rendering
+- `updates.js` — seven Recent Updates entries
+- `assets/images/kiki-hero-illustration.png` — illustrated homepage hero artwork
+- `assets/resume/` — Chinese and English PDF resumes
 - `editable-resumes/` — editable Word resumes
 
-## Publish with GitHub Pages
+## GitHub Pages
 Repository → Settings → Pages → Build and deployment → Deploy from a branch → `main` → `/(root)` → Save.
 
-GitHub Pages is static hosting; it does not provide a web-based file upload dashboard or private user accounts. A web upload system would require a backend, storage and authentication.
-
-No placeholder email address or invented contact details are included. The Healthy Savings project copy follows the user's approved bilingual text.
+The website defaults to English. Visitors can switch to Chinese using the EN / 中文 control. Language preference and light/dark theme preference are saved in the visitor's browser.
