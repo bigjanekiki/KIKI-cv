@@ -16,6 +16,7 @@ window.updates = [
     "category": "Creative Campaign",
     "title": "My Creative Campaign",
     "url": "https://www.tiktok.com/@mrsuprem/video/7688169733128031508?is_from_webapp=1&sender_device=pc&web_id=7667807351747020305"
+    "video": "assets/videos/my-creative-campaign.mp4"
   },
   {
     "date": "November 2026",
