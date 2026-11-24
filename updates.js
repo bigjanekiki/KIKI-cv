@@ -35,6 +35,7 @@ window.updates = [
     "category": "Hausa-language Campaign",
     "title": "Hausa-language Campaign · Part 1",
     "url": "https://www.instagram.com/reel/DfXjf8gMZKl/?utm_source=ig_web_copy_link&vrfl=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+    "video": "assets/videos/my-hausa-language1.mp4"
   },
   {
     "date": "November 2026",
