@@ -15,7 +15,7 @@ window.updates = [
     "date": "November 2026",
     "category": "Creative Campaign",
     "title": "My Creative Campaign",
-    "url": "https://www.tiktok.com/@mrsuprem/video/7688169733128031508?is_from_webapp=1&sender_device=pc&web_id=7667807351747020305"
+    "url": "https://www.tiktok.com/@mrsuprem/video/7688169733128031508?is_from_webapp=1&sender_device=pc&web_id=7667807351747020305",
     "video": "assets/videos/my-creative-campaign.mp4"
   },
   {
@@ -34,7 +34,7 @@ window.updates = [
     "date": "November 2026",
     "category": "Hausa-language Campaign",
     "title": "Hausa-language Campaign · Part 1",
-    "url": "https://www.instagram.com/reel/DfXjf8gMZKl/?utm_source=ig_web_copy_link&vrfl=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+    "url": "https://www.instagram.com/reel/DfXjf8gMZKl/?utm_source=ig_web_copy_link&vrfl=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
     "video": "assets/videos/my-hausa-language1.mp4"
   },
   {
