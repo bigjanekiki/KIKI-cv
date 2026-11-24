@@ -18,3 +18,7 @@ Edit `updates.js` to add or change update entries. Keep each entry's `date`, `ca
 - Homepage illustration: `assets/images/kiki-hero-illustration.jpg`
 
 The Healthy Savings project is linked at https://bigjanekiki.github.io/Lose-Weight-while-Saving/.
+
+
+## Recent Updates video
+The November 23, 2026 advertising film is embedded locally at `assets/videos/life-is-a-game-make-it-colorful.mp4`. It uses H.264/AAC MP4 for broad browser compatibility, with controls enabled and autoplay disabled. The Instagram original link remains available below the player.

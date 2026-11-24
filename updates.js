@@ -1,4 +1,4 @@
-const updates = [
+window.updates = [
   {
     "date": "November 2026",
     "category": "Brand & Content",
@@ -40,5 +40,13 @@ const updates = [
     "category": "Hausa-language Campaign",
     "title": "Hausa-language Campaign · Part 2",
     "url": "https://www.tiktok.com/@mrsuprem/video/7668897732093840660?is_from_webapp=1&sender_device=pc&web_id=7667807351747020305"
+  },
+  {
+    "date": "November 23, 2026",
+    "category": "Independent Advertising Film",
+    "title": "Life Is a Game, Make It Colorful",
+    "url": "https://www.instagram.com/reel/DgF5yF6srPW/?utm_source=ig_web_copy_link&avpt=MzRlODBiNWFlZA==",
+    "video": "assets/videos/life-is-a-game-make-it-colorful.mp4"
   }
+
 ];
